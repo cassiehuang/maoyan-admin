@@ -1,4 +1,4 @@
-# my-project-admin
+# maoyan-admin
 
 ## Project setup
 ```
