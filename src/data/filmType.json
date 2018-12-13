@@ -1,0 +1,262 @@
+{
+  "type": [
+    {
+      "text": "正在热映",
+      "value": 1
+    },
+    {
+      "text": "即将上映",
+      "value": 2
+    },
+    {
+      "text": "已经下映",
+      "value": 3
+    }
+  ],
+  "cat": [
+    {
+      "text": "全部",
+      "value": 1
+    },
+    {
+      "text": "爱情",
+      "value": 2
+    },
+    {
+      "text": "喜剧",
+      "value": 3
+    },
+    {
+      "text": "动画",
+      "value": 4
+    },
+    {
+      "text": "剧情",
+      "value": 5
+    },
+    {
+      "text": "恐怖",
+      "value": 6
+    },
+    {
+      "text": "惊悚",
+      "value": 7
+    },
+    {
+      "text": "科幻",
+      "value": 8
+    },
+    {
+      "text": "动作",
+      "value": 9
+    },
+    {
+      "text": "悬疑",
+      "value": 10
+    },
+    {
+      "text": "犯罪",
+      "value": 11
+    },
+    {
+      "text": "冒险",
+      "value": 12
+    },
+    {
+      "text": "战争",
+      "value": 13
+    },
+    {
+      "text": "奇幻",
+      "value": 14
+    },
+    {
+      "text": "运动",
+      "value": 15
+    },
+    {
+      "text": "家庭",
+      "value": 16
+    },
+    {
+      "text": "古装",
+      "value": 17
+    },
+    {
+      "text": "武侠",
+      "value": 18
+    },
+    {
+      "text": "西部",
+      "value": 19
+    },
+    {
+      "text": "历史",
+      "value": 20
+    },
+    {
+      "text": "传记",
+      "value": 21
+    },
+    {
+      "text": "歌舞",
+      "value": 22
+    },
+    {
+      "text": "黑色电影",
+      "value": 23
+    },
+    {
+      "text": "短片",
+      "value": 24
+    },
+    {
+      "text": "纪录片",
+      "value": 25
+    },
+    {
+      "text": "其他",
+      "value": 0
+    }
+  ],
+  "source": [
+    {
+      "text": "全部",
+      "value": 1
+    },
+    {
+      "text": "大陆",
+      "value": 2
+    },
+    {
+      "text": "美国",
+      "value": 3
+    },
+    {
+      "text": "韩国",
+      "value": 4
+    },
+    {
+      "text": "日本",
+      "value": 5
+    },
+    {
+      "text": "中国香港",
+      "value": 6
+    },
+    {
+      "text": "中国台湾",
+      "value": 7
+    },
+    {
+      "text": "泰国",
+      "value": 8
+    },
+    {
+      "text": "印度",
+      "value": 9
+    },
+    {
+      "text": "法国",
+      "value": 10
+    },
+    {
+      "text": "英国",
+      "value": 11
+    },
+    {
+      "text": "俄罗斯",
+      "value": 12
+    },
+    {
+      "text": "意大利",
+      "value": 13
+    },
+    {
+      "text": "西班牙",
+      "value": 14
+    },
+    {
+      "text": "德国",
+      "value": 15
+    },
+    {
+      "text": "波兰",
+      "value": 16
+    },
+    {
+      "text": "澳大利亚",
+      "value": 17
+    },
+    {
+      "text": "伊朗",
+      "value": 18
+    },
+    {
+      "text": "其他",
+      "value": 0
+    }
+  ],
+  "time": [
+    {
+      "text": "全部",
+      "value": 1
+    },
+    {
+      "text": "2018以后",
+      "value": 2
+    },
+    {
+      "text": "2018",
+      "value": 3
+    },
+    {
+      "text": "2017",
+      "value": 4
+    },
+    {
+      "text": "2016",
+      "value": 5
+    },
+    {
+      "text": "2015",
+      "value": 6
+    },
+    {
+      "text": "2014",
+      "value": 7
+    },
+    {
+      "text": "2013",
+      "value": 8
+    },
+    {
+      "text": "2012",
+      "value": 9
+    },
+    {
+      "text": "2011",
+      "value": 10
+    },
+    {
+      "text": "2000-2010",
+      "value": 11
+    },
+    {
+      "text": "90年代",
+      "value": 12
+    },
+    {
+      "text": "80年代",
+      "value": 13
+    },
+    {
+      "text": "70年代",
+      "value": 14
+    },
+    {
+      "text": "更早",
+      "value": 15
+    }
+  ]
+}
